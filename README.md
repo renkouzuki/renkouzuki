@@ -2,12 +2,12 @@
 <h1 align="center">Hi 👋, I'm Renko also Known as Chhan from workplace</h1>
 <h3 align="center">A passionate backend and frontend developer from cambodia ദ്ദി ˉ͈̀꒳ˉ͈́ )✧</h3>
 
-- 🔭 I’m currently working on **personal app about art sharing :D**
-
-- 🌱 I’m currently learning **php , laravel**
-
+<p align="center">
+  - 🔭 I’m currently working on **personal app about art sharing :D**
+</p>
 
 <p align="center">
+  - 🌱 I’m currently learning **php , laravel**
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
