@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  - 🌱 I’m currently learning **php , laravel**
+  - 🌱 I’m currently learning **java , spring and develop my own 2 frameworks 1 for php and 1 for frontend**
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
