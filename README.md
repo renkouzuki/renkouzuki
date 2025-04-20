@@ -1,4 +1,4 @@
-<Img src='https://tenor.com/view/lycoris-recoil-chisato-takina-hug-spinning-gif-26347730' style="width: 100%; display: inline-block;"/>
+<Img src='https://i.makeagif.com/media/3-16-2024/g0cqiF.gif' style="width: 100%; display: inline-block;"/>
 <h1 align="center">Hi 👋, I'm Renko also Known as Chhan from workplace</h1>
 <h3 align="center">A passionate backend and frontend developer from cambodia ദ്ദി ˉ͈̀꒳ˉ͈́ )✧</h3>
 
