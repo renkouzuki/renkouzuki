@@ -1,4 +1,6 @@
-<Img src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnl0bHpqemMxMDllcm1tZnZseHVseXl2ZWExMjZvdXhveDR5MGtyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JLt72E3D8GhRWDWG6O/giphy.gif' style="width: 100%; display: inline-block;"/>
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnl0bHpqemMxMDllcm1tZnZseHVseXl2ZWExMjZvdXhveDR5MGtyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JLt72E3D8GhRWDWG6O/giphy.gif" width="100%"/>
+</div>
 <h1 align="center">Hi 👋, I'm Renko also Known as Chhan from workplace</h1>
 <h3 align="center">A passionate backend and frontend developer from cambodia ദ്ദി ˉ͈̀꒳ˉ͈́ )✧</h3>
 
