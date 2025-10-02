@@ -35,24 +35,3 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </p>
-
-<h3 align="center">🖼️ Gallery of My Work</h3>
-
-<div class="masonry">
-  <img src="img1.jpg">
-  <img src="img2.jpg">
-  <img src="img3.jpg">
-</div>
-
-<style>
-.masonry {
-  column-count: 3;
-  column-gap: 1em;
-}
-.masonry img {
-  width: 100%;
-  margin-bottom: 1em;
-  break-inside: avoid;
-}
-</style>
-
