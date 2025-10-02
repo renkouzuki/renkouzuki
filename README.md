@@ -37,16 +37,3 @@
 </p>
 
 ---
-
-### 🖼️ Masonry Image Gallery (just Markdown+HTML)
-Here's how you can make a clean "masonry-style" image layout in your README:
-
-```html
-<h3 align="center">🖼️ Gallery of My Work</h3>
-
-<p align="center">
-  <img src="https://via.placeholder.com/300x200" width="30%" style="margin: 10px;" />
-  <img src="https://via.placeholder.com/300x400" width="30%" style="margin: 10px;" />
-  <img src="https://via.placeholder.com/300x300" width="30%" style="margin: 10px;" />
-  <img src="https://via.placeholder.com/300x250" width="30%" style="margin: 10px;" />
-</p>
