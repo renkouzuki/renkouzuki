@@ -36,4 +36,17 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </p>
 
----
+<h3 align="center">🖼️ Gallery of My Work</h3>
+
+<table>
+  <tr>
+    <td><img src="https://via.placeholder.com/300x200" width="100%"/></td>
+    <td><img src="https://via.placeholder.com/300x400" width="100%"/></td>
+    <td><img src="https://via.placeholder.com/300x300" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://via.placeholder.com/300x250" width="100%"/></td>
+    <td><img src="https://via.placeholder.com/300x220" width="100%"/></td>
+    <td><img src="https://via.placeholder.com/300x280" width="100%"/></td>
+  </tr>
+</table>
