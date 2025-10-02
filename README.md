@@ -38,15 +38,21 @@
 
 <h3 align="center">🖼️ Gallery of My Work</h3>
 
-<table>
-  <tr>
-    <td><img src="https://via.placeholder.com/300x200" width="100%"/></td>
-    <td><img src="https://via.placeholder.com/300x400" width="100%"/></td>
-    <td><img src="https://via.placeholder.com/300x300" width="100%"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://via.placeholder.com/300x250" width="100%"/></td>
-    <td><img src="https://via.placeholder.com/300x220" width="100%"/></td>
-    <td><img src="https://via.placeholder.com/300x280" width="100%"/></td>
-  </tr>
-</table>
+<div class="masonry">
+  <img src="img1.jpg">
+  <img src="img2.jpg">
+  <img src="img3.jpg">
+</div>
+
+<style>
+.masonry {
+  column-count: 3;
+  column-gap: 1em;
+}
+.masonry img {
+  width: 100%;
+  margin-bottom: 1em;
+  break-inside: avoid;
+}
+</style>
+
