@@ -1,9 +1,13 @@
-<div align="center">
-  <img src="https://i.imgur.com/4av4hMg.png" width="100%" />
-</div>
+
 
 <h1 align="center" >Hi 👋, I'm Nanamin</h1>
 <h3 align="center">A passionate backend & frontend developer from Cambodia 🇰🇭</h3>
+
+---
+
+<div align="center">
+  <img src="https://i.imgur.com/4av4hMg.png" width="100%" />
+</div>
 
 ---
 
