@@ -1,7 +1,7 @@
 
 
 <h1 align="center" >Hi 👋, I'm Nanamin</h1>
-<h3 align="center">A passionate backend & frontend developer from Cambodia 🇰🇭</h3>
+<h3 align="center">an enthusiast progammer and also a manga lover :D i lov</h3>
 
 ---
 
