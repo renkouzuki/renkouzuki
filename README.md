@@ -1,7 +1,16 @@
 
 
-<h1 align="center" >「こんにちは👋、ナナミンです！」</h1>
-<h3 align="center">an enthusiast progammer and also a manga lover :D </h3>
+<h1 align="center">こんにちは👋、ナナミンです！</h1>
+
+<div align="center">
+  <video width="320" height="240" autoplay loop muted playsinline>
+    <source src="https://i.imgur.com/Q2x9Z0J.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+<h3 align="center">an enthusiast programmer and also a manga lover :D</h3>
+
 
 ---
 
