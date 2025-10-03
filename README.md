@@ -13,7 +13,7 @@
 
 ### 🌸 About Me
 - 🔭 Currently coding on **personal projects** >///< (Feel free to DM me if you're curious!)
-- 🌱 Learning **Java, Spring**, and developing **2 custom frameworks** (PHP + Frontend)
+- 🌱 Learning **Java, Spring , Dotnet**
 - 💬 Ask me about anything related to fullstack dev, or just drop by to say hi ♡
 
 ---
