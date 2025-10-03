@@ -2,9 +2,9 @@
 
 <h1 align="center">こんにちは👋、ナナミンです！</h1>
 
-<!-- <div align="center">
-  <img src="https://i.pinimg.com/originals/2c/5b/0b/2c5b0b88df789c6fa2d999000bf52abe.gif" width="100%" alt="Profile GIF" />
-</div> -->
+<div align="center">
+  <img src="https://i.pinimg.com/originals/5c/2a/0c/5c2a0c39354c1dc9c982cbdc9f31fc84.gif" width="100" alt="Profile GIF" />
+</div>
 
 <h3 align="center">an enthusiast programmer and also a manga lover :D</h3>
 
