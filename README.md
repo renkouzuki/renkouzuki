@@ -3,14 +3,10 @@
 <h1 align="center">こんにちは👋、ナナミンです！</h1>
 
 <div align="center">
-  <video width="320" height="240" autoplay loop muted playsinline>
-    <source src="https://i.imgur.com/Q2x9Z0J.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="https://i.pinimg.com/originals/5c/2a/0c/5c2a0c39354c1dc9c982cbdc9f31fc84.gif" width="320" alt="Profile GIF" />
 </div>
 
 <h3 align="center">an enthusiast programmer and also a manga lover :D</h3>
-
 
 ---
 
