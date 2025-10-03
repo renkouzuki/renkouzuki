@@ -3,7 +3,7 @@
 <h1 align="center">こんにちは👋、ナナミンです！</h1>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/2c/5b/0b/2c5b0b88df789c6fa2d999000bf52abe.gif" width="320" alt="Profile GIF" style="border-radius: 50%;" />
+  <img src="https://i.pinimg.com/originals/2c/5b/0b/2c5b0b88df789c6fa2d999000bf52abe.gif" alt="Profile GIF" />
 </div>
 
 <h3 align="center">an enthusiast programmer and also a manga lover :D</h3>
