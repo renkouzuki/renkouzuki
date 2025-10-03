@@ -1,6 +1,6 @@
 
 
-<h1 align="center" >Hi 👋, I'm Nanamin</h1>
+<h1 align="center" >「こんにちは👋、ナナミンです！」</h1>
 <h3 align="center">an enthusiast progammer and also a manga lover :D </h3>
 
 ---
