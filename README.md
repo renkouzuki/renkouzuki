@@ -2,9 +2,9 @@
 
 <h1 align="center">こんにちは👋、ナナミンです！</h1>
 
-<a href="https://jumpshare.com/embed/rZUNejtmepv6dIYLwBE9">
-  <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg" width="100%" />
-</a>
+<div align="center">
+  <img src="assets/0426.gif" width="100%" />
+</div>
 
 <h3 align="center">an enthusiast programmer and also a manga lover :D</h3>
 
