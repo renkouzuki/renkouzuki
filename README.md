@@ -3,8 +3,8 @@
 <h1 align="center">こんにちは👋、ナナミンです！</h1>
 
 <div align="center">
-  
-https://github.com/your-username/your-repo/assets/xxxx/0426.mp4
+
+https://github.com/user-attachments/assets/d2fa8924-159a-4d42-9d01-d53caa12b54c
 
 </div>
 
