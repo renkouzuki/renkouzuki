@@ -3,7 +3,9 @@
 <h1 align="center">こんにちは👋、ナナミンです！</h1>
 
 <div align="center">
-  <img src="assets/0426.gif" width="100%" />
+  
+https://github.com/your-username/your-repo/assets/xxxx/0426.mp4
+
 </div>
 
 <h3 align="center">an enthusiast programmer and also a manga lover :D</h3>
