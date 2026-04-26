@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/d2fa8924-159a-4d42-9d01-d53caa12b54c
 
 </div>
 
-<h3 align="center">Neva gonna give u up <3 i will neva gonna let chu down and im neva gonna run around desert chu ꉂ(˵˃ ᗜ ˂˵)</h3>
+<h3 align="center">i will neva gonna let chu down and im neva gonna run around desert chu ꉂ(˵˃ ᗜ ˂˵)</h3>
 
 ---
 
